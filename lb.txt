@@ -1,0 +1,17 @@
+fergus,84372,654355,3023,17,tesla cannon,5235
+donk,57105,530969,6140,6,tesla cannon,4134
+fergus,47541,596692,745,11,Sniper,1212
+fergus,45669,455608,2163,10,Sniper,3451
+dedededede,25417,338817,82,11,tesla cannon,2423
+ur mum,23993,387333,1449,6,Bomb Shooter,2351
+fergus,4374,125986,642,2,Machine Gun,777
+fergg,4161,75257,289,2,Machine Gun,774
+snipez,1653,80708,616,0,None,202
+fergus,1274,40752,255,1,tesla cannon,245
+f,0,2032,450,0,None,0
+f,0,1177,450,0,None,0
+fergus,0,3393,450,0,None,0
+ff,0,2001,450,0,None,0
+feg,0,2025,450,0,None,0
+fergus,0,2436,450,0,None,0
+fergus,0,1465,390,1,Machine Gun,0
